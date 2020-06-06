@@ -1,0 +1,10 @@
+sympton_type,care,wellness,clinical,nursing,medical,concern,nurturance,childcare,caring,healthcare,health
+sympton_type,chest,chests,respirology
+sympton_type,Corona,koruna,coruña,crown,krone,krona,coruna,corona,Govt,fatigue
+sympton_type,eye,retinal,ophthalmology,ophthalmic,eyesight,ocular,eyeball,eyes
+sympton_type,heart,coronary,vascular,cardiology,cardiovascular,cardiac,hearts
+sympton_type,kidney and stomach,dialysis,urology,kidney,oncology,urological,endocrinology,nephrology,gastroenterology,urogynecology,diarrhea,stomach ache
+sympton_type,mental,palpitation,depression,behavioral,cognitive,psychic,mentally,emotional,psychiatric,psychological
+sympton_type,cancer,oncology,malignancy,ovarian,prostate,lymphoma,melanoma,carcinoma,tumor
+sympton_type,orthpaedic,bone,surgery,orthopedic,surgical,orthopedics,orthopaedic
+sympton_type,throat,noses,windpipe,nasal,pharynx,breath,tongue,nose,tonsils,larynx,throats,mouth

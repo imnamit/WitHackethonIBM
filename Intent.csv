@@ -1,0 +1,114 @@
+covid hospital,covid_hospitals
+isolation ward,covid_hospitals
+corona center,covid_hospitals
+corona hospital,covid_hospitals
+list of covid hospitals,covid_hospitals
+shut up,goodbyes
+farewell,goodbyes
+good bye hohoho,goodbyes
+dont need your help at all,goodbyes
+done,goodbyes
+be quiet robot,goodbyes
+thank you for the info,goodbyes
+no problem,goodbyes
+youre welcome now bye,goodbyes
+i'm leaving,goodbyes
+thanks for your help,goodbyes
+see ya soon,goodbyes
+see ya later,goodbyes
+see ya,goodbyes
+run,goodbyes
+over and out,goodbyes
+out of time,goodbyes
+ok bye,goodbyes
+my time is up,goodbyes
+logging off,goodbyes
+leave,goodbyes
+laters,goodbyes
+no thank you,goodbyes
+goodbye joto,goodbyes
+got to go bye nice time talking to you,goodbyes
+gtg go right now ok,goodbyes
+sorry got to go,goodbyes
+g'day,goodbyes
+good night,goodbyes
+adieu,goodbyes
+adios,goodbyes
+au revoir,goodbyes
+bye,goodbyes
+bye bye,goodbyes
+bye now,goodbyes
+catch ya later,goodbyes
+cya,goodbyes
+go,goodbyes
+goodbye,goodbyes
+good bye,goodbyes
+good day,goodbyes
+gday,goodbyes
+gotta go,goodbyes
+gotta run,goodbyes
+gtg,goodbyes
+have a good one,goodbyes
+im leaving,goodbyes
+later,goodbyes
+see you,goodbyes
+see you later,goodbyes
+should be going,goodbyes
+should go,goodbyes
+signing off,goodbyes
+signing out,goodbyes
+so long,goodbyes
+soon,goodbyes
+take care,goodbyes
+take it easy,goodbyes
+talk to you soon,goodbyes
+talk to you later,goodbyes
+thanks watson,goodbyes
+thank you,goodbyes
+then bye,goodbyes
+toodles,goodbyes
+thanks,goodbyes
+ttyl,goodbyes
+ty,goodbyes
+thx,goodbyes
+bye im going to play a game,goodbyes
+i am done with you,goodbyes
+o thank u,goodbyes
+ok thanks,goodbyes
+ok thank you for your time,goodbyes
+ok thank you,goodbyes
+stop,goodbyes
+hey,greeting
+good evening,greeting
+Good afternoon,greeting
+Good morning,greeting
+feeling a bit low,greeting
+hola,greeting
+hi,greeting
+hey there,greeting
+hello watson,greeting
+buenos dias,greeting
+ciao,greeting
+hiya,greeting
+heya,greeting
+aloha,greeting
+bonjour,greeting
+hi there,greeting
+howdy,greeting
+namaste,greeting
+Olla,greeting
+yello,greeting
+yo,greeting
+hello,greeting
+hospital name,hospital_recommendation
+hospital names,hospital_recommendation
+List of General Hospitals,hospital_recommendation
+Lis of ent  hospitals,hospital_recommendation
+Lis of heart  hospitals,hospital_recommendation
+Lis of Non Covid hospitals,hospital_recommendation
+List of hospitals,hospital_recommendation
+List of covid hospitals,hospital_recommendation
+hospital,hospital_recommendation
+hospitals,hospital_recommendation
+covid centers,hospital_recommendation
+covid hospital,hospital_recommendation

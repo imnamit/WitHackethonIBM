@@ -1,0 +1,673 @@
+{
+  "intents": [
+    {
+      "intent": "hospital_recommendation",
+      "examples": [
+        {
+          "text": "hospital name"
+        },
+        {
+          "text": "hospital names"
+        },
+        {
+          "text": "List of General Hospitals"
+        },
+        {
+          "text": "Lis of ent  hospitals"
+        },
+        {
+          "text": "Lis of heart  hospitals"
+        },
+        {
+          "text": "Lis of Non Covid hospitals"
+        },
+        {
+          "text": "List of hospitals"
+        },
+        {
+          "text": "List of covid hospitals"
+        },
+        {
+          "text": "hospital"
+        },
+        {
+          "text": "hospitals"
+        },
+        {
+          "text": "covid centers"
+        },
+        {
+          "text": "covid hospital"
+        }
+      ]
+    },
+    {
+      "intent": "greeting",
+      "examples": [
+        {
+          "text": "hey"
+        },
+        {
+          "text": "good evening"
+        },
+        {
+          "text": "Good afternoon"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "feeling a bit low"
+        },
+        {
+          "text": "hola"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "hey there"
+        },
+        {
+          "text": "hello watson"
+        },
+        {
+          "text": "buenos dias"
+        },
+        {
+          "text": "ciao"
+        },
+        {
+          "text": "hiya"
+        },
+        {
+          "text": "heya"
+        },
+        {
+          "text": "aloha"
+        },
+        {
+          "text": "bonjour"
+        },
+        {
+          "text": "hi there"
+        },
+        {
+          "text": "howdy"
+        },
+        {
+          "text": "namaste"
+        },
+        {
+          "text": "Olla"
+        },
+        {
+          "text": "yello"
+        },
+        {
+          "text": "yo"
+        },
+        {
+          "text": "hello"
+        }
+      ]
+    },
+    {
+      "intent": "goodbyes",
+      "examples": [
+        {
+          "text": "shut up"
+        },
+        {
+          "text": "farewell"
+        },
+        {
+          "text": "good bye hohoho"
+        },
+        {
+          "text": "dont need your help at all"
+        },
+        {
+          "text": "done"
+        },
+        {
+          "text": "be quiet robot"
+        },
+        {
+          "text": "thank you for the info"
+        },
+        {
+          "text": "no problem"
+        },
+        {
+          "text": "youre welcome now bye"
+        },
+        {
+          "text": "i'm leaving"
+        },
+        {
+          "text": "thanks for your help"
+        },
+        {
+          "text": "see ya soon"
+        },
+        {
+          "text": "see ya later"
+        },
+        {
+          "text": "see ya"
+        },
+        {
+          "text": "run"
+        },
+        {
+          "text": "over and out"
+        },
+        {
+          "text": "out of time"
+        },
+        {
+          "text": "ok bye"
+        },
+        {
+          "text": "my time is up"
+        },
+        {
+          "text": "logging off"
+        },
+        {
+          "text": "leave"
+        },
+        {
+          "text": "laters"
+        },
+        {
+          "text": "no thank you"
+        },
+        {
+          "text": "goodbye joto"
+        },
+        {
+          "text": "got to go bye nice time talking to you"
+        },
+        {
+          "text": "gtg go right now ok"
+        },
+        {
+          "text": "sorry got to go"
+        },
+        {
+          "text": "g'day"
+        },
+        {
+          "text": "good night"
+        },
+        {
+          "text": "adieu"
+        },
+        {
+          "text": "adios"
+        },
+        {
+          "text": "au revoir"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "bye bye"
+        },
+        {
+          "text": "bye now"
+        },
+        {
+          "text": "catch ya later"
+        },
+        {
+          "text": "cya"
+        },
+        {
+          "text": "go"
+        },
+        {
+          "text": "goodbye"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "good day"
+        },
+        {
+          "text": "gday"
+        },
+        {
+          "text": "gotta go"
+        },
+        {
+          "text": "gotta run"
+        },
+        {
+          "text": "gtg"
+        },
+        {
+          "text": "have a good one"
+        },
+        {
+          "text": "im leaving"
+        },
+        {
+          "text": "later"
+        },
+        {
+          "text": "see you"
+        },
+        {
+          "text": "see you later"
+        },
+        {
+          "text": "should be going"
+        },
+        {
+          "text": "should go"
+        },
+        {
+          "text": "signing off"
+        },
+        {
+          "text": "signing out"
+        },
+        {
+          "text": "so long"
+        },
+        {
+          "text": "soon"
+        },
+        {
+          "text": "take care"
+        },
+        {
+          "text": "take it easy"
+        },
+        {
+          "text": "talk to you soon"
+        },
+        {
+          "text": "talk to you later"
+        },
+        {
+          "text": "thanks watson"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "then bye"
+        },
+        {
+          "text": "toodles"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "ttyl"
+        },
+        {
+          "text": "ty"
+        },
+        {
+          "text": "thx"
+        },
+        {
+          "text": "bye im going to play a game"
+        },
+        {
+          "text": "i am done with you"
+        },
+        {
+          "text": "o thank u"
+        },
+        {
+          "text": "ok thanks"
+        },
+        {
+          "text": "ok thank you for your time"
+        },
+        {
+          "text": "ok thank you"
+        },
+        {
+          "text": "stop"
+        }
+      ]
+    },
+    {
+      "intent": "covid_hospitals",
+      "examples": [
+        {
+          "text": "covid hospital"
+        },
+        {
+          "text": "isolation ward"
+        },
+        {
+          "text": "corona center"
+        },
+        {
+          "text": "corona hospital"
+        },
+        {
+          "text": "list of covid hospitals"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "sympton_type",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "care",
+          "synonyms": [
+            "wellness",
+            "clinical",
+            "nursing",
+            "medical",
+            "concern",
+            "nurturance",
+            "childcare",
+            "caring",
+            "healthcare",
+            "health"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "chest",
+          "synonyms": [
+            "chests",
+            "respirology"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Corona",
+          "synonyms": [
+            "koruna",
+            "coruña",
+            "crown",
+            "krone",
+            "krona",
+            "coruna",
+            "corona",
+            "Govt",
+            "fatigue"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "eye",
+          "synonyms": [
+            "retinal",
+            "ophthalmology",
+            "ophthalmic",
+            "eyesight",
+            "ocular",
+            "eyeball",
+            "eyes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "heart",
+          "synonyms": [
+            "coronary",
+            "vascular",
+            "cardiology",
+            "cardiovascular",
+            "cardiac",
+            "hearts"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "kidney and stomach",
+          "synonyms": [
+            "dialysis",
+            "urology",
+            "kidney",
+            "oncology",
+            "urological",
+            "endocrinology",
+            "nephrology",
+            "gastroenterology",
+            "urogynecology",
+            "diarrhea",
+            "stomach ache"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "mental",
+          "synonyms": [
+            "palpitation",
+            "depression",
+            "behavioral",
+            "cognitive",
+            "psychic",
+            "mentally",
+            "emotional",
+            "psychiatric",
+            "psychological"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cancer",
+          "synonyms": [
+            "oncology",
+            "malignancy",
+            "ovarian",
+            "prostate",
+            "lymphoma",
+            "melanoma",
+            "carcinoma",
+            "tumor"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "orthpaedic",
+          "synonyms": [
+            "bone",
+            "surgery",
+            "orthopedic",
+            "surgical",
+            "orthopedics",
+            "orthopaedic"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "throat",
+          "synonyms": [
+            "noses",
+            "windpipe",
+            "nasal",
+            "pharynx",
+            "breath",
+            "tongue",
+            "nose",
+            "tonsils",
+            "larynx",
+            "throats",
+            "mouth"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "covid hospitals",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Apollo\nGTB\nMedanta\nSMS\nNarayana"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#covid_hospitals",
+      "dialog_node": "node_9_1591435766473",
+      "previous_sibling": "node_9_1591444443155"
+    },
+    {
+      "type": "standard",
+      "title": "Bye",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you for reaching out to us\nStay Home....Stay Safe "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#goodbyes",
+      "dialog_node": "node_9_1591446051986",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Greet",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Welcome to Hospital Recommendation Bot\nI am your assistant to provide you the list of all purpose and COVID19 Hospital"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#greeting",
+      "dialog_node": "node_5_1591445835720",
+      "previous_sibling": "node_9_1591446051986"
+    },
+    {
+      "type": "standard",
+      "title": "gen hosp",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Apollo\nMedanta\nPace\nGTB\nHCG\nNarayana\nGlobal Heart\nKIMS\nSMS\nContinental"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#hospital_recommendation",
+      "dialog_node": "node_9_1591444443155",
+      "previous_sibling": "node_5_1591445835720"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_9_1591435766473",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "abc",
+  "language": "en",
+  "description": ""
+}
